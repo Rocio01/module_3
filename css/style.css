@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+    font-size: 16px; 
+    background-color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /** HEADER **/
+  #header-nav {
+    background-color: #c7c2c4;
+    border-radius: 0;
+    border: 0;
+  } 
+
+  
+  .navbar-brand {
+    padding-top: 25px;
+    margin-bottom: 15px;
+  }
+  
+  .navbar-brand h1 { 
+    font-family: 'Lora', serif;
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+  }
+  .navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+  }
+  
+  ul li{
+  background-color: whitesmoke;
+  border: solid #c7c2c4;;
+  }
+  #Chicken {
+    background-color:  #c7c2c4; 
+    margin: 50px;
+    text-align: justify;
+  }
+  
+
+
